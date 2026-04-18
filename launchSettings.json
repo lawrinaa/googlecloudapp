@@ -1,0 +1,3 @@
+﻿@using GoogleCloudApp
+@namespace GoogleCloudApp.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
